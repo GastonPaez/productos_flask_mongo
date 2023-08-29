@@ -1,0 +1,4 @@
+certifi==2021.10.8
+Flask==2.3.3
+pymongo==4.5.0
+

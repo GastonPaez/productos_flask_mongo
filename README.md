@@ -1,1 +1,2 @@
-# productos_flask_mongo
+# Proyecto con Python - Flask - Mongo
+## Instalar librerias del requirements.txt
